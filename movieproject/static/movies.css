@@ -1,0 +1,26 @@
+.container .jumbotron{
+    margin-top: 200px;
+    background: red;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+form{
+    border:10px solid red;
+    background-color: green;
+}
+table{
+    border: 2px solid red;
+    margin: auto;
+    font-size: 20px;
+}
+th{
+    background: blue;
+}
+th,td,tr{
+    border: 2px solid black;
+}
